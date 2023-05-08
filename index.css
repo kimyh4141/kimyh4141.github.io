@@ -116,7 +116,7 @@ section > div {
   border: solid 1px rgb(211, 211, 211);
 }
 .profile_img > img {
-  height: 280px;
+  height: 250px;
   width: 250px;
   object-fit: cover;
 }
